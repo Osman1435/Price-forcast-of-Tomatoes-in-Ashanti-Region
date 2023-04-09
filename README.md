@@ -20,6 +20,9 @@ The data for this study was collected on the demand of tomato per crate or box i
 ```
 
 ## Findings
+![Screenshot 2023-04-09 203937](https://user-images.githubusercontent.com/130306195/230793252-f213b0f2-8999-4b53-9030-424e7cd68a35.png)
+
+The model indicated that tomato prices would rise in 2024, with the second quarter delivering the highest price. However, following a significant price increase in the second quarter, prices are predicted to fall in both the third and fourth quarters of 2024, everything else being equal. This observation was the pricing pattern in all second quarters during the time under consideration.
 
 ## Conclusion
-The model indicated that tomato prices would rise in 2024, with the second quarter delivering the highest price. However, following a significant price increase in the second quarter, prices are predicted to fall in both the third and fourth quarters of 2024, everything else being equal. This observation was the pricing pattern in all second quarters during the time under consideration, except for 2015, when the price declined by over GHC 5.00 compared to the first quarter price. 
+The Seasonal ARIMA (3, 0, 1) (0,0,1) [4] emerged as the best model because the data had some seasonality in it making it the most suitable relative to the ARIMA models.
